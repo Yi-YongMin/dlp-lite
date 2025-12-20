@@ -4,6 +4,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DlpAgentService/DlpAgentService.vcxproj" />
+  <Project Path="DlpAgentService/DlpAgentService.vcxproj" Id="8202ea82-0cf9-4de1-97af-0d4f3edc0fe4" />
   <Project Path="DlpUiConsole/DlpUiConsole.csproj" />
 </Solution>
